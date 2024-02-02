@@ -24,6 +24,6 @@ const AccountBalanceHeader = () => {
   )
 }
 
-AccountBalanceHeader.defaultProps = {}
+AccountBalanceHeader.defaultProps ={}
 
 export { AccountBalanceHeader }
